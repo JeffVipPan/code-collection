@@ -21,6 +21,10 @@
 
 traceId生成,链路跟踪时使用
 
+### QRCodeUtil
+
+二维码生成器
+
 
 ## spring-collection Spring一些常用做法
 
